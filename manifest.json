@@ -1,0 +1,10 @@
+{
+  "id": "bijoy52-typer",
+  "name": "Bijoy52 Bangla Typer",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Type Bangla using the Bijoy52 keyboard layout directly in the editor, toggled via a command/hotkey.",
+  "author": "Harun",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
